@@ -1,0 +1,14 @@
+{
+  "name": "loader-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "laibao101",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.32.2",
+    "webpack-cli": "^3.3.2"
+  },
+  "scripts": {
+    "start": "webpack"
+  }
+}
