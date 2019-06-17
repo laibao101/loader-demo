@@ -15,7 +15,25 @@ module.exports  = {
         rules: [
             {
                 test: /\.js$/,
-                loader: [getLoaderPath("loader1")]
+                use: [
+                    {
+                        loader: getLoaderPath("loader1"),
+                        options: {
+                            author: 'laibao101',
+                        }
+                    }
+                ]
+            },
+            {
+                test: /\.(png|jpg|jpeg)$/,
+                use: [
+                    {
+                        loader: getLoaderPath("loader2"),
+                        options: {
+                            watermarkPath: "./static/img/mi-logo.png",
+                        }
+                    }
+                ]
             }
         ]
     }
