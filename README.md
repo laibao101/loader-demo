@@ -3,17 +3,17 @@
 
 ## 分支说明
 
-1. [sync-loader-return](https://github.com/laibao101/loader-demo/sync-loader-return) - `同步loader`使用`return`形式
+1. [sync-loader-return](https://github.com/laibao101/loader-demo/tree/sync-loader-return) - `同步loader`使用`return`形式
 
-2. [sync-loader-callback](https://github.com/laibao101/loader-demo/sync-loader-callback) - `同步loader`使用`callback`形式
+2. [sync-loader-callback](https://github.com/laibao101/loader-demo/tree/sync-loader-callback) - `同步loader`使用`callback`形式
 
-3. [async-loader](https://github.com/laibao101/loader-demo/async-loader) - `异步loader`示例
+3. [async-loader](https://github.com/laibao101/loader-demo/tree/async-loader) - `异步loader`示例
 
-4. [banner-loader](https://github.com/laibao101/loader-demo/banner-loader) - `同步loader`的小demo，给代码文件添加注释
+4. [banner-loader](https://github.com/laibao101/loader-demo/tree/banner-loader) - `同步loader`的小demo，给代码文件添加注释
 
-5. [banner-loader-async](https://github.com/laibao101/loader-demo/banner-loader-async) - `异步loader`的小demo，给代码文件添加注释
+5. [banner-loader-async](https://github.com/laibao101/loader-demo/tree/banner-loader-async) - `异步loader`的小demo，给代码文件添加注释
 
-6. [raw-loader](https://github.com/laibao101/loader-demo/raw-loader) - `二进制处理loader`形式的demo。给图片添加水印。
+6. [raw-loader](https://github.com/laibao101/loader-demo/tree/raw-loader) - `二进制处理loader`形式的demo。给图片添加水印。
 
 > pitch-loader 暂未完成，所以还没有代码
 
